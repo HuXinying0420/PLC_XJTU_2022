@@ -83,9 +83,14 @@ To use a PLC to construct an automatic car control system that simulates the aut
 4. The direction of the car's movement (left or right) is indicated by lights, and the position display unit shows the car's current position in real-time.
 5. If the car takes more than 15 seconds to travel between points 1 and 4, an alarm triggers, and the car stops.
 
-
----
 More details about this experiments can be found in Ref.zip
+
+
+
+## Disclaimer
+This repository is intended for personal academic use and reference. It is recommended to understand and work through the materials independently before referring to the provided solutions.
+
+Feel free to explore the content and reach out if you have any questions!
 
 ---
 This article was originally published on GitHub by HuXinying0420 in the repository PLC_XJTU_2022 at the following address: https://github.com/HuXinying0420/PLC_XJTU_2022
