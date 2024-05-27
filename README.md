@@ -6,7 +6,7 @@ This repository contains the PLC (Programmable Logic Controller) control system 
 ### Experiment Objective
 
 To use a PLC to construct a mail sorting control system that simulates the automatic sorting process of mail.
-![image](https://github.com/HuXinying0420/PLC_XJTU_2022/assets/169136175/66741b00-f312-49b3-8b84-82313c478fa0)
+
 
 ### Experiment Details
 
@@ -34,7 +34,7 @@ To use a PLC to construct a mail sorting control system that simulates the autom
 
 To use a PLC to build a traffic light control system that simulates the operation logic of real traffic lights.
 
-![image](https://github.com/HuXinying0420/PLC_XJTU_2022/assets/169136175/8488afc8-8fc4-4cef-93c0-c85ecc44a17d)
+
 
 ### Experiment Details
 
@@ -72,7 +72,6 @@ To use a PLC to build a four-floor elevator control system that simulates the el
 To use a PLC to construct an automatic car control system that simulates the automatic operation and stopping of a car along a predetermined path.
 
 
-![image](https://github.com/HuXinying0420/PLC_XJTU_2022/assets/169136175/6b1c27be-9da2-4127-8d41-5182673c5b9c)
 
 
 ### Experiment Details
